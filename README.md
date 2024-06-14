@@ -1,4 +1,4 @@
-# Sprint 2 de RPA do challenge com o SHopping do cidadão
+# Sprint 2 de RPA do challenge com o Shopping do cidadão
 
 # Integrantes do grupo: #
 * Camilly Alves         RM550210
